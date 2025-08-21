@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Helya</h1>
+<h1 align="center">Hi, I'm Helya Haji</h1>
 <h3 align="center">Master's Student in Biomedical Engineering (Bioelectric)</h3>
 
 <h3 align="center">Passionate about Deep Learning and AI</h3>
