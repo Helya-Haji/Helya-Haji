@@ -5,6 +5,7 @@
 
 <h4 align="center">
 Always learning and exploring new technologies, especially in medical applications.  
+  
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
 
