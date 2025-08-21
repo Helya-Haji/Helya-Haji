@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Helya</h1>
-<h3 align="center">Biomedical Engineer | Deep Learning & Image Processing Enthusiast</h3>
-
+<h1 align="center">Hi, I'm Helya</h1>
+<h3 align="center">Master's Student in Biomedical Engineering (Bioelectric)</h3>
+<h4 align="center">
+Passionate about Deep Learning, Image Processing, and AI — always learning and exploring new technologies, especially in medical applications.  
+Currently working as an AI developer in the R&D team on a bone densitometry device.
+</h4>
 ---
 
 ### 🔗 Connect with me
@@ -31,8 +34,6 @@
 - 🎓 Master's Student in Biomedical Engineering (Bioelectric)  
 - 💻 Interested in **Medical Image Processing, Deep Learning, AI**  
 - 🧩 Currently working on **Bone Density Assessment & Cardiology Imaging**  
-- 🌱 Always learning and exploring new technologies  
+- 🌱 Always learning and exploring new technologies specially in **Medical Image Processing, Deep Learning, AI**  
 
----
 
-⭐️ From [Helya-Haji](https://github.com/Helya-Haji)
