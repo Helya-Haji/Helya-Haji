@@ -5,22 +5,21 @@ Passionate about Deep Learning and AI — always learning and exploring new tech
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
 
---
+
+---
 
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,vscode,visualstudio,anaconda" />
 </p>
 
---
+---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helya-Haji&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Helya-Haji&show_icons=true&theme=tokyonight&rank_icon=github" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helya-Haji&layout=compact&theme=tokyonight&card_width=320" height="180em"/>
 </p>
-
----
 
 ---
 
