@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Helya</h1>
 <h3 align="center">Master's Student in Biomedical Engineering (Bioelectric)</h3>
 <h4 align="center">
-Passionate about Deep Learning and AI — always learning and exploring new technologies, especially in medical applications.  
+Passionate about Deep Learning and AI
+Always learning and exploring new technologies, especially in medical applications.  
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
 
@@ -10,7 +11,7 @@ Currently working as an AI developer in the R&D team on a bone densitometry devi
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,vscode,visualstudio,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,vscode,visualstudio,anaconda" />
 </p>
 
 ---
