@@ -5,15 +5,14 @@ Passionate about Deep Learning and AI — always learning and exploring new tech
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
 
-
----
+--
 
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,vscode,visualstudio,anaconda" />
 </p>
 
----
+--
 
 ### 📊 GitHub Stats
 <p align="center">
