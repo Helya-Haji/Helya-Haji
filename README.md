@@ -17,8 +17,8 @@ Currently working as an AI developer in the R&D team on a bone densitometry devi
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helya-Haji&show_icons=true&theme=holi&rank_icon=github" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helya-Haji&layout=compact&theme=holi&card_width=320" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Helya-Haji&show_icons=true&theme=holi&rank_icon=github" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helya-Haji&layout=compact&theme=holi&card_width=280" height="150em"/>
 </p>
 
 ---
