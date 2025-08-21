@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Helya</h1>
 <h3 align="center">Master's Student in Biomedical Engineering (Bioelectric)</h3>
 <h4 align="center">
-Passionate about Deep Learning, Image Processing, and AI — always learning and exploring new technologies, especially in medical applications.  
+Passionate about Deep Learning, Image Processing, and AI — always learning and exploring new technologies, especially in medical applications.
+  
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
 ---
