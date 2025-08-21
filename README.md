@@ -2,6 +2,7 @@
 <h3 align="center">Master's Student in Biomedical Engineering (Bioelectric)</h3>
 <h4 align="center">
 Passionate about Deep Learning and AI
+  
 Always learning and exploring new technologies, especially in medical applications.  
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
