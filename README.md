@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Helya</h1>
 <h3 align="center">Master's Student in Biomedical Engineering (Bioelectric)</h3>
 <h4 align="center">
-Passionate about Deep Learning, Image Processing, and AI — always learning and exploring new technologies, especially in medical applications.
-  
+Passionate about Deep Learning and AI — always learning and exploring new technologies, especially in medical applications.  
 Currently working as an AI developer in the R&D team on a bone densitometry device.
 </h4>
 ---
@@ -10,8 +9,8 @@ Currently working as an AI developer in the R&D team on a bone densitometry devi
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/Helya-Haji" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/helya-haji" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:helyahajiii@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -30,11 +29,4 @@ Currently working as an AI developer in the R&D team on a bone densitometry devi
 </p>
 
 ---
-
-### 🚀 About Me
-- 🎓 Master's Student in Biomedical Engineering (Bioelectric)  
-- 💻 Interested in **Medical Image Processing, Deep Learning, AI**  
-- 🧩 Currently working on **Bone Density Assessment & Cardiology Imaging**  
-- 🌱 Always learning and exploring new technologies specially in **Medical Image Processing, Deep Learning, AI**  
-
 
